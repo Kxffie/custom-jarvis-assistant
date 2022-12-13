@@ -9,7 +9,7 @@ PYTTSX3 - https://pypi.org/project/pyttsx3/
 
 There are 2 modes: chat and voice:
 
- -Chat
+ - Chat
    - You can type in anything and it will respond in text. Typing "stop" will end the chat.
    
  - Voice
