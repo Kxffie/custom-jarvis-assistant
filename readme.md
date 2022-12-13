@@ -8,8 +8,10 @@ SpeechRecognition - https://pypi.org/project/SpeechRecognition/
 PYTTSX3 - https://pypi.org/project/pyttsx3/
 
 There are 2 modes: chat and voice:
+
  -Chat
    - You can type in anything and it will respond in text. Typing "stop" will end the chat.
+   
  - Voice
    - You can say anything and with SpeechRecognition it will turn your speech into text and then ask ChatGPT what you said and it will respond in a voice and text for hearing and visual output. You can also say things like "stop", "goodbye", "bye", "exit", "quit" to exit the program by voice, or just exiting out.
    
