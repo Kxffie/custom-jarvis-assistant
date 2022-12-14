@@ -3,9 +3,10 @@
 this is a personal project I made thinking I could recreate Jarvis from Tony Starks AI. Of course it isn't exactly -or close- to Jarvis, but this gave me a better understanding about how difficult it is making a tool assistant AI.
 
 Written in Python, libraries used were:
-pyChatGPT - https://github.com/terry3041/pyChatGPT
-SpeechRecognition - https://pypi.org/project/SpeechRecognition/
-PYTTSX3 - https://pypi.org/project/pyttsx3/
+
+ - pyChatGPT - https://github.com/terry3041/pyChatGPT
+ - SpeechRecognition - https://pypi.org/project/SpeechRecognition/
+ - PYTTSX3 - https://pypi.org/project/pyttsx3/
 
 There are 2 modes: chat and voice:
 
